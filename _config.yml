@@ -1,0 +1,74 @@
+---
+booktitle: Proceedings of the Ninth Symposium on Conformal and Probabilistic Prediction
+  and Applications
+shortname: COPA
+volume: 128
+year: '2020'
+start: 2020-09-09
+end: 2020-09-11
+url: http://proceedings.mlr.press
+published: 2020-08-16
+location: ''
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: COPA-2020
+month: 0
+cycles: false
+bibtex_editor: Gammerman, Alexander and Vovk, Vladimir and Luo, Zhiyuan and Smirnov,
+  Evgueni and Cherubin, Giovanni
+editor:
+- given: Alexander
+  family: Gammerman
+- given: Vladimir
+  family: Vovk
+- given: Zhiyuan
+  family: Luo
+- given: Evgueni
+  family: Smirnov
+- given: Giovanni
+  family: Cherubin
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Ninth Symposium on Conformal and Probabilistic Prediction and Applications on 09-11 September 2020
+
+  Published as Volume 128 by the Proceedings of Machine Learning Research on 16 August 2020.
+
+  Volume Edited by:
+    Alexander Gammerman
+    Vladimir Vovk
+    Zhiyuan Luo
+    Evgueni Smirnov
+    Giovanni Cherubin
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: '09--11 Sep'
+baseurl: "/v128"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v128
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Conformal and Probabilistic Prediction and Applications
+  url: 
+  location: ''
+  dates:
+  - 2020-09-09
+  - 2020-09-10
+  - 2020-09-11
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/mreid/mlresearch/v128/copa20.bib
