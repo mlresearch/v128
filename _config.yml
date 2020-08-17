@@ -53,8 +53,8 @@ baseurl: "/v128"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
-excludes:
-- ".README.md"
+exclude:
+- README.md
 - Gemfile
 - ".gitignore"
 plugins:
