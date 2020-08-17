@@ -1,16 +1,21 @@
 ---
 booktitle: Proceedings of the Ninth Symposium on Conformal and Probabilistic Prediction
   and Applications
+orig_bibfile: copa20.bib
 shortname: COPA
 volume: 128
 year: '2020'
 start: 2020-09-09
 end: 2020-09-11
 url: http://proceedings.mlr.press
+author:
+  name: PMLR
 published: 2020-08-16
 location: ''
 layout: proceedings
+publisher: PMLR
 series: Proceedings of Machine Learning Research
+issn: 2640-3498
 id: COPA-2020
 month: 0
 cycles: false
@@ -48,8 +53,14 @@ baseurl: "/v128"
 twitter_username: MLResearchPress
 github_username: mlresearch
 markdown: kramdown
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
 permalink: "/:title.html"
-github:
+ghub:
   edit: true
   repository: v128
 display:
@@ -71,4 +82,4 @@ analytics:
   google:
     tracking_id: UA-92432422-1
 # Site settings
-# Auto generated from /Users/mreid/mlresearch/v128/copa20.bib
+# Original source:  copa20.bib
